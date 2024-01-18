@@ -1,0 +1,6 @@
+# This can be used to list files/folders that git should ignore
+todo.txt
+# *. [ ] means anything with this trait is ignored by git
+*.txt
+# / [ ] refers to folders
+/shopping
